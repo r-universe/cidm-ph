@@ -4,5 +4,8 @@
   },
   {
     "package": "ggmapinset"
+  },
+  {
+    "package": "nswgeo"
   }
 ]

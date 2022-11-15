@@ -13,3 +13,8 @@
 	url = https://github.com/cidm-ph/ggmapinset
 	shallow = true
 	registered = true
+[submodule "nswgeo"]
+	path = nswgeo
+	url = https://github.com/cidm-ph/nswgeo
+	shallow = true
+	registered = true
