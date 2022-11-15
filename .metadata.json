@@ -1,5 +1,8 @@
 [
   {
+    "package": "ggautomap"
+  },
+  {
     "package": "ggmapinset"
   }
 ]
