@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cidm-ph/universe
 	shallow = true
 	branch = HEAD
+[submodule "ggmapinset"]
+	path = ggmapinset
+	url = https://github.com/cidm-ph/ggmapinset
+	shallow = true
+	registered = true
