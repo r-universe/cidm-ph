@@ -3,7 +3,8 @@
     "package": "ggautomap"
   },
   {
-    "package": "ggmapinset"
+    "package": "ggmapinset",
+    "oncran": true
   },
   {
     "package": "nswgeo"
