@@ -3,6 +3,11 @@
 	url = https://github.com/cidm-ph/universe
 	shallow = true
 	branch = HEAD
+[submodule "cartographer"]
+	path = cartographer
+	url = https://github.com/cidm-ph/cartographer
+	shallow = true
+	registered = true
 [submodule "ggautomap"]
 	path = ggautomap
 	url = https://github.com/cidm-ph/ggautomap
