@@ -2,6 +2,12 @@
   {
     "package": "cartographer",
     "url": "https://github.com/cidm-ph/cartographer",
+    "via": ["ggautomap"],
+    "from": "ggautomap"
+  },
+  {
+    "package": "cartographer",
+    "url": "https://github.com/cidm-ph/cartographer",
     "via": ["nswgeo"],
     "from": "nswgeo"
   },
