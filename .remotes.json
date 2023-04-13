@@ -1,5 +1,11 @@
 [
   {
+    "package": "cartographer",
+    "url": "https://github.com/cidm-ph/cartographer",
+    "via": ["nswgeo"],
+    "from": "nswgeo"
+  },
+  {
     "package": "ggautomap",
     "url": "https://github.com/cidm-ph/ggautomap",
     "via": ["nswgeo"],
