@@ -1,23 +1,5 @@
 [
   {
-    "package": "cartographer",
-    "url": "https://github.com/cidm-ph/cartographer",
-    "via": ["ggautomap"],
-    "from": "ggautomap"
-  },
-  {
-    "package": "cartographer",
-    "url": "https://github.com/cidm-ph/cartographer",
-    "via": ["ggautomap", "nswgeo"],
-    "from": "ggautomap"
-  },
-  {
-    "package": "ggmapinset",
-    "url": "https://github.com/cidm-ph/ggmapinset",
-    "via": ["ggautomap"],
-    "from": "ggautomap"
-  },
-  {
     "package": "nswgeo",
     "url": "https://github.com/cidm-ph/nswgeo",
     "via": ["ggautomap"],
