@@ -23,3 +23,8 @@
 	url = https://github.com/cidm-ph/nswgeo
 	shallow = true
 	registered = true
+[submodule "epifish"]
+	path = epifish
+	url = https://github.com/learithe/epifish
+	shallow = true
+	registered = true
