@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/cidm-ph/universe
-	shallow = true
 	branch = HEAD
 [submodule "cartographer"]
 	path = cartographer
 	url = https://github.com/cidm-ph/cartographer
-	shallow = true
-	registered = true
-[submodule "ggautomap"]
-	path = ggautomap
-	url = https://github.com/cidm-ph/ggautomap
-	shallow = true
-	registered = true
-[submodule "ggmapinset"]
-	path = ggmapinset
-	url = https://github.com/cidm-ph/ggmapinset
-	shallow = true
-	registered = true
-[submodule "nswgeo"]
-	path = nswgeo
-	url = https://github.com/cidm-ph/nswgeo
-	shallow = true
-	registered = true
 [submodule "epifish"]
 	path = epifish
 	url = https://github.com/learithe/epifish
-	shallow = true
-	registered = true
+[submodule "ggautomap"]
+	path = ggautomap
+	url = https://github.com/cidm-ph/ggautomap
+[submodule "ggmapinset"]
+	path = ggmapinset
+	url = https://github.com/cidm-ph/ggmapinset
+[submodule "nswgeo"]
+	path = nswgeo
+	url = https://github.com/cidm-ph/nswgeo
