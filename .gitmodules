@@ -17,7 +17,3 @@
 [submodule "nswgeo"]
 	path = nswgeo
 	url = https://github.com/cidm-ph/nswgeo
-[submodule "rnaturalearthhires"]
-	path = rnaturalearthhires
-	url = https://github.com/ropensci/rnaturalearthhires
-	registered = false
