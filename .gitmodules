@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cidm-ph/universe
+	url = https://github.com/cidm-ph/cidm-ph.r-universe.dev
 	branch = HEAD
 [submodule "cartographer"]
 	path = cartographer
