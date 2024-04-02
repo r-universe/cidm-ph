@@ -17,3 +17,6 @@
 [submodule "nswgeo"]
 	path = nswgeo
 	url = https://github.com/cidm-ph/nswgeo
+[submodule "phylepic"]
+	path = phylepic
+	url = https://github.com/cidm-ph/phylepic
