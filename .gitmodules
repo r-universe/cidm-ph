@@ -14,6 +14,9 @@
 [submodule "ggmapinset"]
 	path = ggmapinset
 	url = https://github.com/cidm-ph/ggmapinset
+[submodule "jentre"]
+	path = jentre
+	url = https://github.com/cidm-ph/jentre
 [submodule "nswgeo"]
 	path = nswgeo
 	url = https://github.com/cidm-ph/nswgeo
