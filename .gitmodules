@@ -5,9 +5,6 @@
 [submodule "cartographer"]
 	path = cartographer
 	url = https://github.com/cidm-ph/cartographer
-[submodule "epifish"]
-	path = epifish
-	url = https://github.com/learithe/epifish
 [submodule "ggautomap"]
 	path = ggautomap
 	url = https://github.com/cidm-ph/ggautomap
