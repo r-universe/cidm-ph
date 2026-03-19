@@ -20,3 +20,6 @@
 [submodule "phylepic"]
 	path = phylepic
 	url = https://github.com/cidm-ph/phylepic
+[submodule "waratah"]
+	path = waratah
+	url = https://github.com/digitalnsw/nsw-r-visualisations
